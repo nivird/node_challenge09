@@ -1,9 +1,9 @@
 
-# My home
+# my home
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-decorating the home
+shows awesome ideas 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -23,7 +23,7 @@ npm start
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
-pull request
+npm
 
 ## Tests
 npm test
@@ -31,5 +31,5 @@ npm test
 ## Questions
 For additional questions, you can reach me via:
 - GitHub: [nivi](https://github.com/nivi)
-- Email: nivi
+- Email: nivi@nivi.com
     
